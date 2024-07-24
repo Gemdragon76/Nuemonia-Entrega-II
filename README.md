@@ -118,3 +118,7 @@ Las imágenes se procesan de la siguiente manera:
 ## 10. Conclusión
 
 Este Sistema de Detección de Neumonía proporciona interfaces CLI y GUI para analizar imágenes de rayos X de tórax. Demuestra la aplicación del aprendizaje profundo en el análisis de imágenes médicas, con el potencial de asistir en el diagnóstico de neumonía. El trabajo futuro debería centrarse en mejorar la precisión del modelo, expandir las capacidades del sistema y asegurar el cumplimiento de las regulaciones sanitarias relevantes.
+
+## Nota: 
+Los archivos que inician con _doc_ son los resultados de exportar PDF y CSV y el documento word muestra el ejercio Local.
+
